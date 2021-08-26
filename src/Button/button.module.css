@@ -1,0 +1,27 @@
+.button {
+  background-color: #bbb;
+  color: white;
+  border: none;
+  border-radius: 2px;
+  cursor: pointer;
+  transition: 0.2s all ease-in-out;
+}
+
+.button:hover {
+  transform: scale(1.05);
+}
+
+.danger {
+  background-color: #e74c3c;
+  color: white;
+}
+
+.primary {
+  background-color: #3498db;
+  color: white;
+}
+
+.warning {
+  background-color: #f39c12;
+  color: white;
+}
